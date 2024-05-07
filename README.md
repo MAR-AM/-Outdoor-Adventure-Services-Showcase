@@ -1,2 +1,3 @@
 # -Outdoor-Adventure-Services-Showcase
 This HTML code creates a visually appealing webpage showcasing various outdoor adventure services. With a background image of a camping scene, it sets an adventurous tone.
+The layout utilizes Bootstrap for responsiveness, featuring a centered title "Nos services" (Our Services) followed by cards representing different services. Each card contains an image, service title, brief description, and a "suite" (read more) button. The design adapts gracefully for both landscape and portrait orientations, ensuring a consistent and engaging experience across devices.
